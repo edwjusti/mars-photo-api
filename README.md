@@ -7,6 +7,11 @@ Build status: [![CircleCI](https://dl.circleci.com/status-badge/img/gh/corincera
 Test coverage: [![Test Coverage](https://codeclimate.com/github/chrisccerami/mars-photo-api/badges/coverage.svg)](https://codeclimate.com/github/chrisccerami/mars-photo-api/coverage)
 
 
+# Archive Only - This API is retired
+
+I built this API as a student project back in 2014 and then rebuilt it in 2015. It then became a part of NASA's Open Data Portal in the fall of 2015. I've maintained this API for the last 10 years by myself, but I no longer have the time to properly maintain it. The search for other maintainers came up empty so this repo is now an archive only. If you are interested in using any of this code, feel free to fork it and use it however you'd like.
+
+
 This API is designed to collect image data gathered by NASA's Perseverance, Curiosity, Opportunity, and Spirit rovers on Mars and make it more easily available to other developers, educators, and citizen scientists.
 
 ## API Keys
